@@ -29,6 +29,7 @@ args of `betago_bringup_moveit.launch`:
 ![moveit_config_3.png](../media/moveit_config_3.png)
 
 2. copy the betago_moveit_planning_executation.launch to betago_moveit_config/launch and change the content to suit your model.
+![betago_moveit_planning_execution](https://github.com/xietianyu20163705/XTY/blob/main/images/betago_moveit_planning_execution.png)
 3. copy the controllers.yaml to betago_moveit_config/config and change the content to suit your model.
 4. copy the content in the launch/ridgeback_moveit_controller_manager.launch.xml to the same file in your package.
 
