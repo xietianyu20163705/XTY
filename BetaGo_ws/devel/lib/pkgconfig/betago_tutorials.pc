@@ -1,0 +1,8 @@
+prefix=/home/xietianyu/myproject/BetaGo_ws/devel
+
+Name: betago_tutorials
+Description: Description of betago_tutorials
+Version: 0.0.0
+Cflags: -I/home/xietianyu/myproject/BetaGo_ws/src/betago_tutorials/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs moveit_core moveit_visual_tools moveit_ros_planning_interface interactive_markers

@@ -1,0 +1,8 @@
+prefix=/home/xietianyu/myproject/BetaGo_ws/install
+
+Name: td_ros
+Description: Description of td_ros
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ltd_ros
+Requires: roscpp rospy std_msgs moveit_core tf moveit_core moveit_visual_tools moveit_ros_planning moveit_ros_planning_interface

@@ -1,0 +1,8 @@
+prefix=/home/xietianyu/myproject/BetaGo_ws/install
+
+Name: betago_navigation
+Description: Description of betago_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

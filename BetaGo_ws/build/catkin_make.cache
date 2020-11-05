@@ -1,0 +1,2 @@
+allegro_hand_description:betago_calibration:betago_control:betago_description:betago_gazebo:betago_manipulation/betago_bringup:betago_manipulation/betago_moveit_config:betago_navigation:betago_tutorials:td_ros
+-DCATKIN_DEVEL_PREFIX=/home/xietianyu/myproject/BetaGo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xietianyu/myproject/BetaGo_ws/install -G Unix Makefiles
